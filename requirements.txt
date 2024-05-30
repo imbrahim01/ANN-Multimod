@@ -1,0 +1,12 @@
+streamlit 
+torch
+torch.nn 
+torch.optim 
+sklearn.model_selection 
+sklearn.preprocessing 
+sklearn.metrics 
+pandas 
+numpy 
+matplotlib.pyplot
+seaborn 
+time
