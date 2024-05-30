@@ -3,7 +3,7 @@ torch
 torch.optim 
 sklearn.model
 sklearn.preprocessing 
-sklearn.metrics 
+sklearn
 pandas 
 numpy 
 matplotlib.pyplot
