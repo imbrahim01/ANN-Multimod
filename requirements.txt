@@ -6,6 +6,6 @@ sklearn.preprocessing
 scikit-learn
 pandas 
 numpy 
-matplotlib.pyplot
+pyplot
 seaborn 
 time
